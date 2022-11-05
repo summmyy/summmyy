@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunmi
 - 👀 I’m interested in Soccer, Video games and Movies
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning HTML, CSS and React.js
 - 💞️ I’m looking to collaborate on anything that can improve my skills
 - 📫 How to reach me IG - @summyy_ or email - sunmioye@gmail.com
 
